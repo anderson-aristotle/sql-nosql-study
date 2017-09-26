@@ -6,12 +6,15 @@ In your responses, be sure to cite any relevant sources you consulted in your se
 
 ## Required Readings
 
-Read the following articles thoroughly. Practice active reading by taking notes.
-
 -   [NoSQL Databases Explained | MongoDB](https://www.mongodb.com/nosql-explained)
 -   [MongoDB Use Cases](http://docs.mongodb.org/ecosystem/use-cases/) (click
     through to at least one detailed example)
 -   [Why You Sould Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+
+## Deliverables
+
+Be prepared to share your answers with others before the discussion. Everyone
+should have something to contribute.
 
 As you read, pay special attention to addressing the following:
 
@@ -23,8 +26,7 @@ As you read, pay special attention to addressing the following:
 After you've finished your study, summarize your notes to the following section
 and open a pull request.
 
-Be prepared to share your notes with others before the discussion. Everyone
-should have something to contribute.
+
 
 ## Summary
 
