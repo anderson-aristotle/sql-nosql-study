@@ -22,12 +22,3 @@ As you read, pay special attention to addressing the following:
     appropriate.
 -   List three strengths of relational databases.
 -   List three strengths of non-relational databases.
-
-After you've finished your study, summarize your notes to the following section
-and open a pull request.
-
-
-
-## Summary
-
-<!-- your notes here -->
