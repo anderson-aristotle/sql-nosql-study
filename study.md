@@ -18,7 +18,14 @@ should have something to contribute.
 
 As you read, pay special attention to addressing the following:
 
--   Identify use cases where relational or non-relational databases are
-    appropriate.
+-   Identify use cases where relational or non-relational databases are appropriate.
+    ```md
+    <!-- your answer here -->
+    ```
 -   List three strengths of relational databases.
+    ```md
+    <!-- your answer here -->
+    ```
 -   List three strengths of non-relational databases.
+    ```md
+    <!-- your answer here -->
