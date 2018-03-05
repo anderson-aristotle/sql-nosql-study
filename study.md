@@ -13,7 +13,7 @@ material. Instead, digest what you've read and repeat it in your own voice.
 - [NoSQL Databases Explained | MongoDB](https://www.mongodb.com/nosql-explained)
 - [MongoDB Use Cases](http://docs.mongodb.org/ecosystem/use-cases/) (click
     through to at least one detailed example)
-- [Why You Sould Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+- [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 
 ## Deliverables
 

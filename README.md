@@ -11,7 +11,7 @@
 By the end of this, developers should be able to:
 
 - Describe a few differences between relational and non-relational stores.
-- List the stengths and weaknesses of relational and non-relational stores.
+- List the strengths and weaknesses of relational and non-relational stores.
 - List criteria that can help someone choose between relational and
     non-relational stores.
 
