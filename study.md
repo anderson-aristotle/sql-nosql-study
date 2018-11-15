@@ -14,6 +14,9 @@ material. Instead, digest what you've read and repeat it in your own voice.
 - [MongoDB Use Cases](http://docs.mongodb.org/ecosystem/use-cases/) (click
     through to at least one detailed example)
 - [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+- [The SQL vs NoSQL Difference](https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2)
+- [SQL vs NoSQL](http://www.bmc.com/blogs/sql-vs-nosql/)
+- [A Database Tutorial](https://www.youtube.com/watch?v=Jt_w2swkXAk) - *optional*
 
 ## Deliverables
 
