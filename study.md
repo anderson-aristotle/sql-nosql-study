@@ -35,17 +35,28 @@ As you read, pay special attention to addressing the following:
   appropriate.
 
     ```md
-    <!-- your answer here -->
+    <!-- A relational database is ideal when a developer knows the input field data
+    schema and the structure is defined.
+
+    Non-relational databases are best when a developer doesn't have a data schema fully defined
+    and need the flexibility of defining and scaling their schema.  -->
     ```
 
 - List three strengths of relational databases.
 
     ```md
-    <!-- your answer here -->
+    <!-- Data is structured and orangized through the use of schemas which store once
+    non-relational data.
+
+    db use SQL which is good for handling complicated queryies.
+
+    Can use features that help lookup data. -->
     ```
 
 - List three strengths of non-relational databases.
 
     ```md
-    <!-- your answer here -->
+    <!-- Scalability - can add features.
+    Flexibility - Changes can be made to db schema after db is created.
+    Performance - servers and apps are backed up by load balance features. -->
     ```
